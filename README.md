@@ -26,7 +26,7 @@ Este foi o primeiro repositório de código apresentado no [Curso Superior de TS
 ## Time
 
 - [Ueslei Albuquerque Garcia](https://github.com/)
-- [Murilo](https://github.com/)
+- [Murilo](https://github.com/MURILO17SILVA)
 - Diego dos Santos Fernandes
 
 ## Pilha de tecnologia
