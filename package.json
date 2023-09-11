@@ -1,0 +1,13 @@
+{
+  "name": "mensuracao-de-desempenho(benchmark)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node src/functions/createSheets.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.19"
+  }
+}

@@ -1,0 +1,7 @@
+"Método de ordenação","Tempo da primeira execução (ms)","Tempo da segunda execução (ms)","Tempo da terceira execução (ms)","Tempo da quarta execução (ms)","Tempo da quinta execução (ms)","Média aritmética"
+"Método da bolha","652.394","653.430","653.469","652.355","653.110","652.951,6"
+"Método de ordenação por seleção","257.518","257.492","257.507","258.726","258.029","257.854,4"
+"Método de ordenação por inserção","289,083","295,184","287,708","287,529","288,324","289,566"
+"Método de ordenação por intercalação","21,72","21,64","21,55","21,66","21,5","21,614"
+"Método de ordenação por separação","64,228","68,137","78,706","63,302","63,156","67,506"
+"Método de ordenação por monte","105.786","104.424","105.573","104.835","104.960","105.115,6"
