@@ -1,13 +1,15 @@
 {
-  "name": "mensuracao-de-desempenho(benchmark)",
+  "name": "benchmark-algoritmos-de-ordenacao",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/DIEG0FERNANDES/benchmark-algoritmos-de-ordenacao.git",
+  "author": "Diego_dos_Santos_Fernandes <55159614+DIEG0FERNANDES@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
     "build": "node src/functions/createSheets.js"
   },
-  "devDependencies": {
-    "@types/node": "^18.7.19"
+  "dependencies": {
+    "@types/node": "^20.6.5"
   }
 }
