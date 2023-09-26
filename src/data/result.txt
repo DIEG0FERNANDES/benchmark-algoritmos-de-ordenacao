@@ -1,120 +1,120 @@
-bubbleSort, entry No. 1, loop No. 1: 1:55:51.269 (h:mm:ss.mmm)
-bubbleSort, entry No. 1, loop No. 2: 1:55:56.826 (h:mm:ss.mmm)
-bubbleSort, entry No. 1, loop No. 3: 1:24:26.095 (h:mm:ss.mmm)
-bubbleSort, entry No. 1, loop No. 4: 1:17:53.484 (h:mm:ss.mmm)
-bubbleSort, entry No. 1, loop No. 5: 1:17:30.473 (h:mm:ss.mmm)
-bubbleSort, entry No. 2, loop No. 1: 15:08.386 (m:ss.mmm)
-bubbleSort, entry No. 2, loop No. 2: 15:05.368 (m:ss.mmm)
-bubbleSort, entry No. 2, loop No. 3: 15:06.298 (m:ss.mmm)
-bubbleSort, entry No. 2, loop No. 4: 15:05.814 (m:ss.mmm)
-bubbleSort, entry No. 2, loop No. 5: 15:05.834 (m:ss.mmm)
-bubbleSort, entry No. 3, loop No. 1: 15:23.943 (m:ss.mmm)
-bubbleSort, entry No. 3, loop No. 2: 15:27.186 (m:ss.mmm)
-bubbleSort, entry No. 3, loop No. 3: 15:19.431 (m:ss.mmm)
-bubbleSort, entry No. 3, loop No. 4: 15:23.508 (m:ss.mmm)
-bubbleSort, entry No. 3, loop No. 5: 15:18.003 (m:ss.mmm)
-bubbleSort, entry No. 4, loop No. 1: 15:07.943 (m:ss.mmm)
-bubbleSort, entry No. 4, loop No. 2: 15:14.948 (m:ss.mmm)
-bubbleSort, entry No. 4, loop No. 3: 15:20.681 (m:ss.mmm)
-bubbleSort, entry No. 4, loop No. 4: 15:24.979 (m:ss.mmm)
-bubbleSort, entry No. 4, loop No. 5: 15:39.540 (m:ss.mmm)
-selectionSort, entry No. 1, loop No. 1: 27:35.546 (m:ss.mmm)
-selectionSort, entry No. 1, loop No. 2: 27:09.968 (m:ss.mmm)
-selectionSort, entry No. 1, loop No. 3: 26:10.383 (m:ss.mmm)
-selectionSort, entry No. 1, loop No. 4: 26:09.993 (m:ss.mmm)
-selectionSort, entry No. 1, loop No. 5: 26:10.211 (m:ss.mmm)
-selectionSort, entry No. 2, loop No. 1: 6:04.472 (m:ss.mmm)
-selectionSort, entry No. 2, loop No. 2: 6:04.089 (m:ss.mmm)
-selectionSort, entry No. 2, loop No. 3: 6:07.468 (m:ss.mmm)
-selectionSort, entry No. 2, loop No. 4: 6:05.484 (m:ss.mmm)
-selectionSort, entry No. 2, loop No. 5: 6:06.006 (m:ss.mmm)
-selectionSort, entry No. 3, loop No. 1: 8:48.887 (m:ss.mmm)
-selectionSort, entry No. 3, loop No. 2: 8:48.979 (m:ss.mmm)
-selectionSort, entry No. 3, loop No. 3: 8:49.099 (m:ss.mmm)
-selectionSort, entry No. 3, loop No. 4: 8:48.417 (m:ss.mmm)
-selectionSort, entry No. 3, loop No. 5: 8:49.297 (m:ss.mmm)
-selectionSort, entry No. 4, loop No. 1: 6:04.942 (m:ss.mmm)
-selectionSort, entry No. 4, loop No. 2: 6:04.792 (m:ss.mmm)
-selectionSort, entry No. 4, loop No. 3: 6:10.835 (m:ss.mmm)
-selectionSort, entry No. 4, loop No. 4: 6:04.430 (m:ss.mmm)
-selectionSort, entry No. 4, loop No. 5: 6:05.361 (m:ss.mmm)
-insertionSort, entry No. 1, loop No. 1: 11:28.998 (m:ss.mmm)
-insertionSort, entry No. 1, loop No. 2: 11:28.449 (m:ss.mmm)
-insertionSort, entry No. 1, loop No. 3: 11:29.839 (m:ss.mmm)
-insertionSort, entry No. 1, loop No. 4: 11:29.407 (m:ss.mmm)
-insertionSort, entry No. 1, loop No. 5: 10:52.425 (m:ss.mmm)
-insertionSort, entry No. 2, loop No. 1: 2.376ms
-insertionSort, entry No. 2, loop No. 2: 2.458ms
-insertionSort, entry No. 2, loop No. 3: 2.292ms
-insertionSort, entry No. 2, loop No. 4: 2.294ms
-insertionSort, entry No. 2, loop No. 5: 2.554ms
-insertionSort, entry No. 3, loop No. 1: 4:54.715 (m:ss.mmm)
-insertionSort, entry No. 3, loop No. 2: 4:54.701 (m:ss.mmm)
-insertionSort, entry No. 3, loop No. 3: 4:54.167 (m:ss.mmm)
-insertionSort, entry No. 3, loop No. 4: 4:53.298 (m:ss.mmm)
-insertionSort, entry No. 3, loop No. 5: 4:53.096 (m:ss.mmm)
-insertionSort, entry No. 4, loop No. 1: 263.058ms
-insertionSort, entry No. 4, loop No. 2: 262.046ms
-insertionSort, entry No. 4, loop No. 3: 268.346ms
-insertionSort, entry No. 4, loop No. 4: 262.985ms
-insertionSort, entry No. 4, loop No. 5: 263.192ms
-mergeSort, entry No. 1, loop No. 1: 4:35.020 (m:ss.mmm)
-mergeSort, entry No. 1, loop No. 2: 4:35.395 (m:ss.mmm)
-mergeSort, entry No. 1, loop No. 3: 4:34.927 (m:ss.mmm)
-mergeSort, entry No. 1, loop No. 4: 4:34.830 (m:ss.mmm)
-mergeSort, entry No. 1, loop No. 5: 4:34.964 (m:ss.mmm)
-mergeSort, entry No. 2, loop No. 1: 29.490s
-mergeSort, entry No. 2, loop No. 2: 29.368s
-mergeSort, entry No. 2, loop No. 3: 29.390s
-mergeSort, entry No. 2, loop No. 4: 29.353s
-mergeSort, entry No. 2, loop No. 5: 29.358s
-mergeSort, entry No. 3, loop No. 1: 29.307s
-mergeSort, entry No. 3, loop No. 2: 29.369s
-mergeSort, entry No. 3, loop No. 3: 29.384s
-mergeSort, entry No. 3, loop No. 4: 29.359s
-mergeSort, entry No. 3, loop No. 5: 29.373s
-mergeSort, entry No. 4, loop No. 1: 29.877s
-mergeSort, entry No. 4, loop No. 2: 31.912s
-mergeSort, entry No. 4, loop No. 3: 29.886s
-mergeSort, entry No. 4, loop No. 4: 29.962s
-mergeSort, entry No. 4, loop No. 5: 29.855s
-quickSort, entry No. 1, loop No. 1: 168.371ms
-quickSort, entry No. 1, loop No. 2: 156.135ms
-quickSort, entry No. 1, loop No. 3: 152.27ms
-quickSort, entry No. 1, loop No. 4: 154.019ms
-quickSort, entry No. 1, loop No. 5: 153.38ms
-quickSort, entry No. 2, loop No. 1: 38.535ms
-quickSort, entry No. 2, loop No. 2: 38.097ms
-quickSort, entry No. 2, loop No. 3: 37.875ms
-quickSort, entry No. 2, loop No. 4: 38.552ms
-quickSort, entry No. 2, loop No. 5: 38.136ms
-quickSort, entry No. 3, loop No. 1: 38.516ms
-quickSort, entry No. 3, loop No. 2: 40.54ms
-quickSort, entry No. 3, loop No. 3: 38.922ms
-quickSort, entry No. 3, loop No. 4: 38.705ms
-quickSort, entry No. 3, loop No. 5: 40.526ms
-quickSort, entry No. 4, loop No. 1: 46.402ms
-quickSort, entry No. 4, loop No. 2: 47.03ms
-quickSort, entry No. 4, loop No. 3: 46.691ms
-quickSort, entry No. 4, loop No. 4: 47.544ms
-quickSort, entry No. 4, loop No. 5: 46.667ms
-heapSort, entry No. 1, loop No. 1: 17:31.223 (m:ss.mmm)
-heapSort, entry No. 1, loop No. 2: 16:10.868 (m:ss.mmm)
-heapSort, entry No. 1, loop No. 3: 15:50.967 (m:ss.mmm)
-heapSort, entry No. 1, loop No. 4: 16:10.667 (m:ss.mmm)
-heapSort, entry No. 1, loop No. 5: 15:52.278 (m:ss.mmm)
-heapSort, entry No. 2, loop No. 1: 2:03.661 (m:ss.mmm)
-heapSort, entry No. 2, loop No. 2: 2:03.230 (m:ss.mmm)
-heapSort, entry No. 2, loop No. 3: 2:03.200 (m:ss.mmm)
-heapSort, entry No. 2, loop No. 4: 2:03.159 (m:ss.mmm)
-heapSort, entry No. 2, loop No. 5: 2:03.155 (m:ss.mmm)
-heapSort, entry No. 3, loop No. 1: 2:03.105 (m:ss.mmm)
-heapSort, entry No. 3, loop No. 2: 2:03.816 (m:ss.mmm)
-heapSort, entry No. 3, loop No. 3: 2:03.352 (m:ss.mmm)
-heapSort, entry No. 3, loop No. 4: 2:02.995 (m:ss.mmm)
-heapSort, entry No. 3, loop No. 5: 2:02.927 (m:ss.mmm)
-heapSort, entry No. 4, loop No. 1: 2:03.147 (m:ss.mmm)
-heapSort, entry No. 4, loop No. 2: 2:03.124 (m:ss.mmm)
-heapSort, entry No. 4, loop No. 3: 2:03.835 (m:ss.mmm)
-heapSort, entry No. 4, loop No. 4: 2:06.921 (m:ss.mmm)
-heapSort, entry No. 4, loop No. 5: 2:03.799 (m:ss.mmm)
+bubbleSort, entry No. 1, loop No. 1: 1:15:02.256 (h:mm:ss.mmm)
+bubbleSort, entry No. 1, loop No. 2: 1:15:10.216 (h:mm:ss.mmm)
+bubbleSort, entry No. 1, loop No. 3: 1:15:13.697 (h:mm:ss.mmm)
+bubbleSort, entry No. 1, loop No. 4: 1:15:14.132 (h:mm:ss.mmm)
+bubbleSort, entry No. 1, loop No. 5: 1:16:32.371 (h:mm:ss.mmm)
+bubbleSort, entry No. 2, loop No. 1: 15:09.534 (m:ss.mmm)
+bubbleSort, entry No. 2, loop No. 2: 14:38.309 (m:ss.mmm)
+bubbleSort, entry No. 2, loop No. 3: 13:54.787 (m:ss.mmm)
+bubbleSort, entry No. 2, loop No. 4: 13:54.315 (m:ss.mmm)
+bubbleSort, entry No. 2, loop No. 5: 13:56.069 (m:ss.mmm)
+bubbleSort, entry No. 3, loop No. 1: 13:42.387 (m:ss.mmm)
+bubbleSort, entry No. 3, loop No. 2: 14:04.858 (m:ss.mmm)
+bubbleSort, entry No. 3, loop No. 3: 13:40.409 (m:ss.mmm)
+bubbleSort, entry No. 3, loop No. 4: 13:39.665 (m:ss.mmm)
+bubbleSort, entry No. 3, loop No. 5: 13:50.974 (m:ss.mmm)
+bubbleSort, entry No. 4, loop No. 1: 13:51.713 (m:ss.mmm)
+bubbleSort, entry No. 4, loop No. 2: 13:37.543 (m:ss.mmm)
+bubbleSort, entry No. 4, loop No. 3: 14:02.896 (m:ss.mmm)
+bubbleSort, entry No. 4, loop No. 4: 14:04.194 (m:ss.mmm)
+bubbleSort, entry No. 4, loop No. 5: 13:58.802 (m:ss.mmm)
+selectionSort, entry No. 1, loop No. 1: 25:11.577 (m:ss.mmm)
+selectionSort, entry No. 1, loop No. 2: 25:11.953 (m:ss.mmm)
+selectionSort, entry No. 1, loop No. 3: 25:12.914 (m:ss.mmm)
+selectionSort, entry No. 1, loop No. 4: 25:11.237 (m:ss.mmm)
+selectionSort, entry No. 1, loop No. 5: 25:13.202 (m:ss.mmm)
+selectionSort, entry No. 2, loop No. 1: 5:37.137 (m:ss.mmm)
+selectionSort, entry No. 2, loop No. 2: 5:37.723 (m:ss.mmm)
+selectionSort, entry No. 2, loop No. 3: 5:38.513 (m:ss.mmm)
+selectionSort, entry No. 2, loop No. 4: 5:37.388 (m:ss.mmm)
+selectionSort, entry No. 2, loop No. 5: 5:38.154 (m:ss.mmm)
+selectionSort, entry No. 3, loop No. 1: 8:13.202 (m:ss.mmm)
+selectionSort, entry No. 3, loop No. 2: 8:14.047 (m:ss.mmm)
+selectionSort, entry No. 3, loop No. 3: 9:13.965 (m:ss.mmm)
+selectionSort, entry No. 3, loop No. 4: 9:32.346 (m:ss.mmm)
+selectionSort, entry No. 3, loop No. 5: 9:33.101 (m:ss.mmm)
+selectionSort, entry No. 4, loop No. 1: 6:49.835 (m:ss.mmm)
+selectionSort, entry No. 4, loop No. 2: 6:58.584 (m:ss.mmm)
+selectionSort, entry No. 4, loop No. 3: 6:50.533 (m:ss.mmm)
+selectionSort, entry No. 4, loop No. 4: 6:49.581 (m:ss.mmm)
+selectionSort, entry No. 4, loop No. 5: 6:45.091 (m:ss.mmm)
+insertionSort, entry No. 1, loop No. 1: 10:47.174 (m:ss.mmm)
+insertionSort, entry No. 1, loop No. 2: 10:46.310 (m:ss.mmm)
+insertionSort, entry No. 1, loop No. 3: 10:46.873 (m:ss.mmm)
+insertionSort, entry No. 1, loop No. 4: 10:47.345 (m:ss.mmm)
+insertionSort, entry No. 1, loop No. 5: 10:47.015 (m:ss.mmm)
+insertionSort, entry No. 2, loop No. 1: 2.293ms
+insertionSort, entry No. 2, loop No. 2: 2.305ms
+insertionSort, entry No. 2, loop No. 3: 2.291ms
+insertionSort, entry No. 2, loop No. 4: 2.29ms
+insertionSort, entry No. 2, loop No. 5: 2.562ms
+insertionSort, entry No. 3, loop No. 1: 4:52.938 (m:ss.mmm)
+insertionSort, entry No. 3, loop No. 2: 4:52.534 (m:ss.mmm)
+insertionSort, entry No. 3, loop No. 3: 4:53.996 (m:ss.mmm)
+insertionSort, entry No. 3, loop No. 4: 4:53.817 (m:ss.mmm)
+insertionSort, entry No. 3, loop No. 5: 4:54.170 (m:ss.mmm)
+insertionSort, entry No. 4, loop No. 1: 264.015ms
+insertionSort, entry No. 4, loop No. 2: 264.011ms
+insertionSort, entry No. 4, loop No. 3: 280.632ms
+insertionSort, entry No. 4, loop No. 4: 263.957ms
+insertionSort, entry No. 4, loop No. 5: 266.232ms
+mergeSort, entry No. 1, loop No. 1: 4:37.518 (m:ss.mmm)
+mergeSort, entry No. 1, loop No. 2: 4:36.160 (m:ss.mmm)
+mergeSort, entry No. 1, loop No. 3: 4:36.019 (m:ss.mmm)
+mergeSort, entry No. 1, loop No. 4: 4:34.165 (m:ss.mmm)
+mergeSort, entry No. 1, loop No. 5: 4:35.988 (m:ss.mmm)
+mergeSort, entry No. 2, loop No. 1: 29.359s
+mergeSort, entry No. 2, loop No. 2: 29.390s
+mergeSort, entry No. 2, loop No. 3: 29.401s
+mergeSort, entry No. 2, loop No. 4: 29.388s
+mergeSort, entry No. 2, loop No. 5: 29.389s
+mergeSort, entry No. 3, loop No. 1: 29.391s
+mergeSort, entry No. 3, loop No. 2: 29.364s
+mergeSort, entry No. 3, loop No. 3: 29.413s
+mergeSort, entry No. 3, loop No. 4: 29.384s
+mergeSort, entry No. 3, loop No. 5: 29.403s
+mergeSort, entry No. 4, loop No. 1: 29.908s
+mergeSort, entry No. 4, loop No. 2: 29.912s
+mergeSort, entry No. 4, loop No. 3: 29.877s
+mergeSort, entry No. 4, loop No. 4: 29.861s
+mergeSort, entry No. 4, loop No. 5: 29.882s
+quickSort, entry No. 1, loop No. 1: 167.242ms
+quickSort, entry No. 1, loop No. 2: 156.977ms
+quickSort, entry No. 1, loop No. 3: 152.542ms
+quickSort, entry No. 1, loop No. 4: 153.709ms
+quickSort, entry No. 1, loop No. 5: 154.421ms
+quickSort, entry No. 2, loop No. 1: 37.988ms
+quickSort, entry No. 2, loop No. 2: 37.93ms
+quickSort, entry No. 2, loop No. 3: 37.921ms
+quickSort, entry No. 2, loop No. 4: 38.248ms
+quickSort, entry No. 2, loop No. 5: 38.522ms
+quickSort, entry No. 3, loop No. 1: 38.342ms
+quickSort, entry No. 3, loop No. 2: 38.337ms
+quickSort, entry No. 3, loop No. 3: 38.596ms
+quickSort, entry No. 3, loop No. 4: 39.831ms
+quickSort, entry No. 3, loop No. 5: 39.808ms
+quickSort, entry No. 4, loop No. 1: 46.766ms
+quickSort, entry No. 4, loop No. 2: 46.467ms
+quickSort, entry No. 4, loop No. 3: 47.105ms
+quickSort, entry No. 4, loop No. 4: 47.573ms
+quickSort, entry No. 4, loop No. 5: 46.796ms
+heapSort, entry No. 1, loop No. 1: 15:34.047 (m:ss.mmm)
+heapSort, entry No. 1, loop No. 2: 15:45.806 (m:ss.mmm)
+heapSort, entry No. 1, loop No. 3: 19:10.846 (m:ss.mmm)
+heapSort, entry No. 1, loop No. 4: 15:44.001 (m:ss.mmm)
+heapSort, entry No. 1, loop No. 5: 17:21.968 (m:ss.mmm)
+heapSort, entry No. 2, loop No. 1: 2:03.007 (m:ss.mmm)
+heapSort, entry No. 2, loop No. 2: 2:02.900 (m:ss.mmm)
+heapSort, entry No. 2, loop No. 3: 2:02.967 (m:ss.mmm)
+heapSort, entry No. 2, loop No. 4: 2:03.183 (m:ss.mmm)
+heapSort, entry No. 2, loop No. 5: 2:04.238 (m:ss.mmm)
+heapSort, entry No. 3, loop No. 1: 2:02.792 (m:ss.mmm)
+heapSort, entry No. 3, loop No. 2: 2:02.758 (m:ss.mmm)
+heapSort, entry No. 3, loop No. 3: 2:02.497 (m:ss.mmm)
+heapSort, entry No. 3, loop No. 4: 2:02.452 (m:ss.mmm)
+heapSort, entry No. 3, loop No. 5: 2:05.322 (m:ss.mmm)
+heapSort, entry No. 4, loop No. 1: 2:03.191 (m:ss.mmm)
+heapSort, entry No. 4, loop No. 2: 2:03.143 (m:ss.mmm)
+heapSort, entry No. 4, loop No. 3: 2:03.206 (m:ss.mmm)
+heapSort, entry No. 4, loop No. 4: 2:02.988 (m:ss.mmm)
+heapSort, entry No. 4, loop No. 5: 2:03.012 (m:ss.mmm)
