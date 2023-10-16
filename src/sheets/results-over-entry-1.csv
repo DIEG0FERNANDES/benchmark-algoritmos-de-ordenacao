@@ -1,7 +1,7 @@
-"M√©todo de ordena√ß√£o","Tempo da primeira execu√ß√£o (ms)","Tempo da segunda execu√ß√£o (ms)","Tempo da terceira execu√ß√£o (ms)","Tempo da quarta execu√ß√£o (ms)","Tempo da quinta execu√ß√£o (ms)","M√©dia aritm√©tica"
-"M√©todo da bolha","4.502.256","4.510.216","4.513.697","4.514.132","4.592.371","4.526.534,4"
-"M√©todo de ordena√ß√£o por sele√ß√£o","1.511.577","1.511.953","1.512.914","1.511.237","1.513.202","1.512.176,6"
-"M√©todo de ordena√ß√£o por inser√ß√£o","647.174","646.310","646.873","647.345","647.015","646.943,4"
-"M√©todo de ordena√ß√£o por intercala√ß√£o","277.518","276.160","276.019","274.165","275.988","275.970"
-"M√©todo de ordena√ß√£o por separa√ß√£o","167,242","156,977","152,542","153,709","154,421","156,978"
-"M√©todo de ordena√ß√£o por monte","934.047","945.806","1.150.846","944.001","1.041.968","1.003.333,6"
+MÈtodo de ordenaÁ„o,Tempo da primeira execuÁ„o (ms),Tempo da segunda execuÁ„o (ms),Tempo da terceira execuÁ„o (ms),Tempo da quarta execuÁ„o (ms),Tempo da quinta execuÁ„o (ms),MÈdia aritmÈtica
+Bubble(Bolha),4502256,4510216,4513697,4514132,4592371,"4526534,4"
+Selection(SeleÁ„o),1511577,1511953,1512914,1511237,1513202,"1512176,6"
+Inserction(InserÁ„o),647174,646310,646873,647345,647015,"646943,4"
+Merge(IntercalaÁ„o),277518,276160,276019,274165,275988,275970
+Quick(R·pida),"167,242","156,977","152,542","153,709","154,421","156,978"
+Heap(Pilha),934047,945806,1150846,944001,1041968,"1003333,6"
