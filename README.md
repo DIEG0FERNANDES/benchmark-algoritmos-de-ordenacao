@@ -20,13 +20,13 @@ Este foi o primeiro repositório de código apresentado no [Curso Superior de TS
 - [Método de ordenação por seleção ou _selection sort_](./src/functions/selectionSort.ts);
 - [Método de ordenação por inserção ou _insertion sort_](./src/functions/insertionSort.ts);
 - [Método de ordenação por intercalação ou _merge sort_](./src/functions/mergeSort.ts);
-- [Método de ordenação por separação ou _quick sort_](./src/functions/quickSort.ts);
-- [Método de ordenação por monte ou _heap sort_](./src/functions/heapSort.ts).
+- [Método de ordenação rapida ou _quick sort_](./src/functions/quickSort.ts);
+- [Método de ordenação por pilha ou _heap sort_](./src/functions/heapSort.ts).
 
 ## Time
 
 - [Ueslei Albuquerque Garcia](https://github.com/Ueslei86)
-- [Murilo](https://github.com/MURILO17SILVA)
+- [Murilo Silva](https://github.com/MURILO17SILVA)
 - Diego dos Santos Fernandes
 
 ## Pilha de tecnologia
