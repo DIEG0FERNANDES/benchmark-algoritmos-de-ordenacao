@@ -1,7 +1,7 @@
-Método de ordenação,Tempo da primeira execução (ms),Tempo da segunda execução (ms),Tempo da terceira execução (ms),Tempo da quarta execução (ms),Tempo da quinta execução (ms),Média aritmética
-Bubble(Bolha),831713,817543,842896,844194,838802,"835029,6"
-Selection(Seleção),409835,418584,410533,409581,405091,"410724,8"
-Inserction(Inserção),"264,015","264,011","280,632","263,957","266,232","267,769"
-Merge(Intercalação),"29,9","29,91","29,87","29,86","29,88","29,884"
-Quick(Rápida),"46,766","46,467","47,105","47,573","46,796","46,941"
-Heap(Pilha),123191,123143,123206,122988,123012,123108
+"Método de ordenação","Tempo da primeira execução (ms)","Tempo da segunda execução (ms)","Tempo da terceira execução (ms)","Tempo da quarta execução (ms)","Tempo da quinta execução (ms)","Média aritmética"
+"Método da bolha","831.713","817.543","842.896","844.194","838.802","835.029,6"
+"Método de ordenação por seleção","409.835","418.584","410.533","409.581","405.091","410.724,8"
+"Método de ordenação por inserção","264,015","264,011","280,632","263,957","266,232","267,769"
+"Método de ordenação por intercalação","29,9","29,91","29,87","29,86","29,88","29,884"
+"Método de ordenação rápida","46,766","46,467","47,105","47,573","46,796","46,941"
+"Método de ordenação por pilha","123.191","123.143","123.206","122.988","123.012","123.108"
